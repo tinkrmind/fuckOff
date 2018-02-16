@@ -1,3 +1,7 @@
+#fuckOff
+
+For [Voice interface class Spring 2018, ITP](https://github.com/juxtapix/ExpressiveInterfaces_Voice/wiki) Week 2
+
 fuckOff affords you a terminal interface to tell people to stop disturbing you when you're in the zone. After you're done setting it up, typing fuckOff speaks a random fuck you.
 
 Needs foass and python3
